@@ -12,7 +12,7 @@ While the immediate business use-case is specific music recommendations, the bro
 
 
 ## Technical Report:
-An in depth discussion of this project is found in the [technical report](https://github.com/davidcbickham/Capstone).
+An in depth discussion of this project is found in the [technical report](https://github.com/davidcbickham/Capstone/blob/master/Technical_Report.ipynb).
 
 ---
 
